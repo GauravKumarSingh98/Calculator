@@ -1,0 +1,23 @@
+.calculator {
+    border: 1px solid black;
+    max-width: 50vh;
+    border-radius: 5px;
+    background-color: beige;
+}
+.display {
+    
+    max-width: 600px;
+    margin: 10px;
+    font-size: 25px;
+}
+.buttonsContainer {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.button {
+    border-radius: 10px;
+    width: 55px;
+    height: 55px;
+    margin: 10px;
+}
